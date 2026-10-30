@@ -1,2 +1,1 @@
-# k20_Portolio_CNTT20-02.
-CV ca nhan mon thiet ke Wep va trien khai he thong phan mem khoa 20
+# K20_Lab6
